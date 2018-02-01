@@ -1,0 +1,880 @@
+"Município (Res)";"Freqüência"
+"110004 Cacoal";1
+"110012 Ji-Paraná";2
+"110020 Porto Velho";13
+"110025 Presidente Médici";1
+"110030 Vilhena";1
+"120020 Cruzeiro do Sul";1
+"120040 Rio Branco";4
+"130063 Beruri";1
+"130250 Manacapuru";1
+"130260 Manaus";48
+"130340 Parintins";1
+"130420 Tefé";1
+"140010 Boa Vista";5
+"140030 Mucajaí";1
+"150080 Ananindeua";7
+"150130 Barcarena";1
+"150140 Belém";70
+"150170 Bragança";1
+"150220 Capanema";1
+"150240 Castanhal";2
+"150290 Curuçá";1
+"150410 Magalhães Barata";1
+"150420 Marabá";1
+"150680 Santarém";1
+"160010 Amapá";1
+"160030 Macapá";5
+"160050 Oiapoque";1
+"170820 Formoso do Araguaia";1
+"171320 Miracema do Tocantins";3
+"172100 Palmas";2
+"210220 Buriti";1
+"210300 Caxias";2
+"210330 Codó";1
+"210360 Coroatá";4
+"210500 Humberto de Campos";1
+"210530 Imperatriz";10
+"210750 Paço do Lumiar";1
+"210805 Paulino Neves";1
+"210900 Porto Franco";2
+"211100 São João Batista";2
+"211110 São João dos Patos";1
+"211130 São Luís";51
+"211220 Timon";3
+"220027 Alegrete do Piauí";1
+"220390 Floriano";1
+"220410 Francisco Ayres";1
+"220770 Parnaíba";2
+"220790 Pedro II";1
+"220800 Picos";1
+"220900 Rio Grande do Piauí";1
+"221100 Teresina";19
+"221110 União";1
+"230010 Abaiara";1
+"230260 Camocim";1
+"230350 Cascavel";1
+"230380 Cedro";1
+"230440 Fortaleza";160
+"230470 Granja";1
+"230500 Guaraciaba do Norte";1
+"230540 Icó";1
+"230550 Iguatu";1
+"230950 Orós";1
+"231170 Reriutaba";1
+"231290 Sobral";3
+"240110 Areia Branca";1
+"240800 Mossoró";6
+"240810 Natal";22
+"240325 Parnamirim";1
+"240910 Passa e Fica";1
+"240940 Pau dos Ferros";1
+"241010 Poço Branco";1
+"250030 Alagoa Grande";2
+"250110 Areia";2
+"250320 Cabedelo";2
+"250360 Caiçara";1
+"250370 Cajazeiras";3
+"250400 Campina Grande";9
+"250540 Desterro";2
+"250600 Esperança";3
+"250610 Fagundes";4
+"250630 Guarabira";1
+"250750 João Pessoa";20
+"250790 Juripiranga";1
+"250830 Lagoa Seca";1
+"250880 Malta";1
+"250890 Mamanguape";1
+"250970 Monteiro";1
+"251080 Patos";1
+"251290 Rio Tinto";1
+"251340 Santa Luzia";1
+"251490 São Mamede";2
+"251580 Serra Redonda";1
+"251600 Solânea";1
+"251620 Sousa";2
+"260005 Abreu e Lima";1
+"260170 Belo Jardim";2
+"260290 Cabo de Santo Agostinho";4
+"260345 Camaragibe";4
+"260390 Carnaíba";1
+"260410 Caruaru";5
+"260420 Catende";1
+"260680 Igarassu";2
+"260720 Ipojuca";1
+"260765 Itambé";1
+"260790 Jaboatão dos Guararapes";27
+"260940 Moreno";2
+"260950 Nazaré da Mata";1
+"260960 Olinda";20
+"260970 Orobó";2
+"261060 Paudalho";1
+"261070 Paulista";6
+"261090 Pesqueira";1
+"261100 Petrolândia";1
+"261110 Petrolina";3
+"261160 Recife";158
+"261180 Ribeirão";1
+"261200 Sairé";1
+"261310 São Caitano";1
+"261370 São Lourenço da Mata";1
+"261410 Sertânia";1
+"261530 Timbaúba";1
+"261640 Vitória de Santo Antão";3
+"270030 Arapiraca";3
+"270130 Cajueiro";1
+"270150 Campo Grande";1
+"270235 Craíbas";1
+"270330 Inhapi";1
+"270400 Junqueiro";1
+"270430 Maceió";41
+"270550 Murici";1
+"270640 Pão de Açúcar";1
+"270760 Quebrangulo";1
+"270770 Rio Largo";1
+"270860 São Miguel dos Campos";2
+"270900 Tanque d'Arca";1
+"270910 Taquarana";1
+"270930 União dos Palmares";1
+"280030 Aracaju";33
+"280120 Canindé de São Francisco";1
+"280210 Estância";1
+"280260 Gracho Cardoso";1
+"280290 Itabaiana";4
+"280320 Itaporanga d'Ajuda";1
+"280350 Lagarto";1
+"280400 Maruim";1
+"280480 Nossa Senhora do Socorro";1
+"280600 Ribeirópolis";1
+"280710 Simão Dias";1
+"290070 Alagoinhas";4
+"290320 Barreiras";1
+"290340 Belmonte";1
+"290490 Cachoeira";1
+"290570 Camaçari";1
+"290630 Canavieiras";1
+"290730 Castro Alves";1
+"291050 Entre Rios";1
+"291070 Euclides da Cunha";1
+"291080 Feira de Santana";1
+"291150 Gongogi";1
+"291320 Ibotirama";1
+"291350 Iguaí";1
+"291360 Ilhéus";1
+"291370 Inhambupe";1
+"291390 Ipiaú";1
+"291480 Itabuna";5
+"291560 Itamaraju";1
+"291780 Jaguaripe";1
+"291800 Jequié";1
+"291840 Juazeiro";9
+"291920 Lauro de Freitas";2
+"292060 Maragogipe";1
+"292100 Mata de São João";1
+"292110 Medeiros Neto";1
+"292130 Milagres";1
+"292150 Monte Santo";1
+"292180 Mortugaba";1
+"292265 Nordestina";1
+"292305 Novo Triunfo";2
+"292400 Paulo Afonso";5
+"292530 Porto Seguro";4
+"292670 Rio de Contas";1
+"292740 Salvador";207
+"292890 São Desidério";1
+"293050 Serrinha";1
+"293076 Sítio do Quinto";1
+"293077 Sobradinho";1
+"293100 Tanhaçu";1
+"293135 Teixeira de Freitas";1
+"293290 Valença";1
+"293330 Vitória da Conquista";4
+"310150 Além Paraíba";2
+"310160 Alfenas";3
+"310260 Andradas";2
+"310290 Antônio Carlos";1
+"310350 Araguari";4
+"310380 Arapuá";1
+"310400 Araxá";1
+"310490 Baependi";1
+"310560 Barbacena";1
+"310620 Belo Horizonte";203
+"310630 Belo Oriente";1
+"310670 Betim";9
+"310690 Bicas";1
+"310750 Bom Jardim de Minas";1
+"311060 Cambuí";1
+"311100 Campestre";1
+"311170 Canaã";2
+"311330 Carangola";3
+"311340 Caratinga";3
+"311410 Carmo de Minas";1
+"311440 Carmo do Rio Claro";1
+"311530 Cataguases";3
+"311660 Cláudio";1
+"311790 Congonhal";2
+"311800 Congonhas";1
+"311830 Conselheiro Lafaiete";1
+"311850 Consolação";1
+"311860 Contagem";25
+"311940 Coronel Fabriciano";5
+"312230 Divinópolis";2
+"312310 Dores de Guanhães";1
+"312360 Elói Mendes";2
+"312420 Espera Feliz";1
+"312700 Fronteira";2
+"312710 Frutal";5
+"312735 Glaucilândia";1
+"312770 Governador Valadares";6
+"312870 Guaxupé";3
+"312880 Guidoval";1
+"312950 Ibiá";2
+"313130 Ipatinga";10
+"313140 Ipiaçu";1
+"313170 Itabira";1
+"313190 Itabirito";1
+"313240 Itajubá";10
+"313340 Itapagipe";2
+"313350 Itapecerica";1
+"313380 Itaúna";1
+"313420 Ituiutaba";6
+"313430 Itumirim";1
+"313460 Jaboticatubas";1
+"313490 Jacutinga";1
+"313620 João Monlevade";1
+"313630 João Pinheiro";1
+"313670 Juiz de Fora";64
+"313760 Lagoa Santa";2
+"313800 Laranjal";1
+"313840 Leopoldina";1
+"313940 Manhuaçu";1
+"313980 Mar de Espanha";1
+"314000 Mariana";2
+"314050 Martinho Campos";1
+"314330 Montes Claros";4
+"314390 Muriaé";3
+"314470 Nova Era";1
+"314480 Nova Lima";2
+"314510 Nova Resende";1
+"314590 Ouro Branco";1
+"314600 Ouro Fino";1
+"314730 Paraisópolis";1
+"314760 Passa Quatro";1
+"314790 Passos";9
+"314870 Pedra Azul";1
+"315050 Pimenta";1
+"315110 Pirapetinga";2
+"315150 Piumhi";1
+"315160 Planura";1
+"315180 Poços de Caldas";47
+"315250 Pouso Alegre";7
+"315280 Prata";1
+"315460 Ribeirão das Neves";8
+"315670 Sabará";4
+"315733 Santa Cruz de Minas";1
+"315780 Santa Luzia";5
+"315920 Santa Rita de Caldas";1
+"316070 Santos Dumont";3
+"316200 São Gonçalo do Sapucaí";1
+"316370 São Lourenço";1
+"316470 São Sebastião do Paraíso";2
+"316540 Sapucaí-Mirim";1
+"316720 Sete Lagoas";2
+"316790 Tabuleiro";1
+"316860 Teófilo Otoni";1
+"316880 Tiradentes";1
+"316930 Três Corações";3
+"316940 Três Pontas";1
+"316960 Tupaciguara";1
+"317010 Uberaba";18
+"317020 Uberlândia";21
+"317040 Unaí";1
+"317070 Varginha";4
+"317120 Vespasiano";3
+"317130 Viçosa";2
+"317200 Visconde do Rio Branco";2
+"320020 Alegre";1
+"320040 Anchieta";2
+"320090 Barra de São Francisco";1
+"320120 Cachoeiro de Itapemirim";8
+"320130 Cariacica";12
+"320150 Colatina";3
+"320170 Conceição do Castelo";1
+"320240 Guarapari";4
+"320280 Itapemirim";2
+"320313 João Neiva";1
+"320320 Linhares";3
+"320350 Montanha";1
+"320420 Piúma";1
+"320490 São Mateus";6
+"320500 Serra";21
+"320520 Vila Velha";18
+"320530 Vitória";27
+"330010 Angra dos Reis";11
+"330023 Armação dos Búzios";2
+"330030 Barra do Piraí";2
+"330040 Barra Mansa";16
+"330045 Belford Roxo";17
+"330070 Cabo Frio";14
+"330090 Cambuci";1
+"330100 Campos dos Goytacazes";7
+"330120 Carmo";2
+"330150 Cordeiro";1
+"330170 Duque de Caxias";80
+"330180 Engenheiro Paulo de Frontin";1
+"330190 Itaboraí";15
+"330200 Itaguaí";4
+"330220 Itaperuna";12
+"330225 Itatiaia";1
+"330227 Japeri";2
+"330240 Macaé";19
+"330250 Magé";10
+"330260 Mangaratiba";2
+"330270 Maricá";5
+"330280 Mendes";2
+"330285 Mesquita";1
+"330300 Miracema";1
+"330320 Nilópolis";16
+"330330 Niterói";125
+"330340 Nova Friburgo";9
+"330350 Nova Iguaçu";157
+"330360 Paracambi";5
+"330385 Paty do Alferes";2
+"330390 Petrópolis";39
+"330414 Queimados";10
+"330415 Quissamã";1
+"330420 Resende";11
+"330430 Rio Bonito";1
+"330455 Rio de Janeiro";1391
+"330460 Santa Maria Madalena";1
+"330490 São Gonçalo";83
+"330510 São João de Meriti";39
+"330550 Saquarema";1
+"330560 Silva Jardim";1
+"330580 Teresópolis";15
+"330600 Três Rios";5
+"330610 Valença";5
+"330620 Vassouras";2
+"330630 Volta Redonda";18
+"350010 Adamantina";2
+"350020 Adolfo";1
+"350040 Águas da Prata";1
+"350070 Agudos";2
+"350140 Álvaro de Carvalho";1
+"350160 Americana";14
+"350170 Américo Brasiliense";1
+"350190 Amparo";5
+"350210 Andradina";8
+"350250 Aparecida";10
+"350275 Araçariguama";1
+"350280 Araçatuba";32
+"350290 Araçoiaba da Serra";3
+"350320 Araraquara";70
+"350330 Araras";17
+"350380 Artur Nogueira";2
+"350390 Arujá";4
+"350400 Assis";18
+"350410 Atibaia";13
+"350430 Avaí";1
+"350450 Avaré";9
+"350460 Bady Bassitt";1
+"350500 Barão de Antonina";1
+"350520 Bariri";1
+"350530 Barra Bonita";4
+"350550 Barretos";32
+"350560 Barrinha";5
+"350570 Barueri";9
+"350590 Batatais";7
+"350600 Bauru";69
+"350610 Bebedouro";43
+"350635 Bertioga";2
+"350650 Birigui";11
+"350660 Biritiba-Mirim";1
+"350670 Boa Esperança do Sul";1
+"350750 Botucatu";13
+"350760 Bragança Paulista";17
+"350790 Brotas";1
+"350800 Buri";1
+"350810 Buritama";1
+"350840 Cabreúva";1
+"350850 Caçapava";22
+"350900 Caieiras";3
+"350920 Cajamar";1
+"350940 Cajuru";2
+"350950 Campinas";208
+"350960 Campo Limpo Paulista";5
+"350970 Campos do Jordão";1
+"350990 Cananéia";1
+"351015 Canitar";1
+"351040 Capivari";1
+"351050 Caraguatatuba";7
+"351060 Carapicuíba";41
+"351080 Casa Branca";4
+"351110 Catanduva";48
+"351130 Cedral";1
+"351140 Cerqueira César";1
+"351200 Colina";2
+"351230 Conchas";1
+"351240 Cordeirópolis";2
+"351250 Coroados";1
+"351280 Cosmópolis";10
+"351300 Cotia";15
+"351310 Cravinhos";1
+"351340 Cruzeiro";11
+"351350 Cubatão";46
+"351360 Cunha";1
+"351370 Descalvado";2
+"351380 Diadema";41
+"351410 Dois Córregos";1
+"351440 Dracena";1
+"351450 Duartina";1
+"351460 Dumont";1
+"351500 Embu";18
+"351510 Embu-Guaçu";5
+"351518 Espírito Santo do Pinhal";1
+"351560 Fernando Prestes";3
+"351550 Fernandópolis";3
+"351570 Ferraz de Vasconcelos";11
+"351590 Floreal";1
+"351620 Franca";49
+"351630 Francisco Morato";4
+"351640 Franco da Rocha";22
+"351660 Gália";2
+"351670 Garça";7
+"351700 Getulina";2
+"351720 Guaiçara";1
+"351740 Guaíra";1
+"351750 Guapiaçu";1
+"351770 Guará";2
+"351820 Guararapes";1
+"351840 Guaratinguetá";19
+"351860 Guariba";1
+"351870 Guarujá";93
+"351880 Guarulhos";162
+"351907 Hortolândia";4
+"351910 Iacanga";1
+"351930 Ibaté";2
+"351940 Ibirá";2
+"352010 Igarapava";2
+"352020 Igaratá";1
+"352030 Iguape";2
+"352040 Ilhabela";1
+"352050 Indaiatuba";7
+"352090 Ipaussu";1
+"352100 Iperó";2
+"352140 Iracemápolis";2
+"352160 Irapuru";1
+"352170 Itaberá";1
+"352210 Itanhaém";8
+"352220 Itapecerica da Serra";7
+"352230 Itapetininga";8
+"352240 Itapeva";4
+"352250 Itapevi";21
+"352260 Itapira";7
+"352270 Itápolis";4
+"352310 Itaquaquecetuba";12
+"352320 Itararé";2
+"352340 Itatiba";8
+"352360 Itirapina";1
+"352390 Itu";18
+"352410 Ituverava";4
+"352420 Jaborandi";1
+"352430 Jaboticabal";5
+"352440 Jacareí";38
+"352470 Jaguariúna";2
+"352480 Jales";2
+"352500 Jandira";8
+"352510 Jardinópolis";3
+"352530 Jaú";16
+"352570 José Bonifácio";4
+"352590 Jundiaí";56
+"352610 Juquiá";2
+"352620 Juquitiba";1
+"352640 Laranjal Paulista";3
+"352670 Leme";14
+"352680 Lençóis Paulista";1
+"352690 Limeira";51
+"352710 Lins";16
+"352720 Lorena";11
+"352730 Louveira";1
+"352740 Lucélia";1
+"352850 Mairiporã";7
+"352860 Manduri";1
+"352900 Marília";33
+"352920 Martinópolis";1
+"352930 Matão";3
+"352940 Mauá";49
+"352970 Miguelópolis";2
+"352980 Mineiros do Tietê";1
+"353010 Mirandópolis";8
+"353020 Mirante do Paranapanema";1
+"353030 Mirassol";12
+"353050 Mococa";10
+"353060 Mogi das Cruzes";12
+"353070 Mogi Guaçu";6
+"353080 Moji Mirim";14
+"353110 Mongaguá";2
+"353130 Monte Alto";2
+"353140 Monte Aprazível";2
+"353180 Monte Mor";3
+"353170 Monteiro Lobato";1
+"353190 Morro Agudo";1
+"353240 Nazaré Paulista";2
+"353250 Neves Paulista";1
+"353270 Nipoã";1
+"353300 Nova Granada";1
+"353340 Nova Odessa";1
+"353350 Novo Horizonte";3
+"353360 Nuporanga";1
+"353380 Óleo";1
+"353400 Onda Verde";1
+"353410 Oriente";2
+"353420 Orindiúva";1
+"353430 Orlândia";3
+"353440 Osasco";109
+"353460 Osvaldo Cruz";2
+"353470 Ourinhos";10
+"353500 Palestina";1
+"353510 Palmares Paulista";2
+"353540 Panorama";1
+"353550 Paraguaçu Paulista";5
+"353560 Paraibuna";1
+"353570 Paraíso";1
+"353650 Paulínia";7
+"353670 Pederneiras";2
+"353700 Pedregulho";1
+"353730 Penápolis";7
+"353740 Pereira Barreto";3
+"353760 Peruíbe";1
+"353780 Piedade";1
+"353800 Pindamonhangaba";8
+"353810 Pindorama";1
+"353830 Piquerobi";1
+"353860 Piracaia";1
+"353870 Piracicaba";68
+"353880 Piraju";1
+"353890 Pirajuí";5
+"353900 Pirangi";1
+"353920 Pirapozinho";2
+"353930 Pirassununga";4
+"353940 Piratininga";1
+"353950 Pitangueiras";1
+"353980 Poá";12
+"354000 Pompéia";2
+"354020 Pontal";1
+"354050 Porangaba";1
+"354070 Porto Ferreira";1
+"354075 Potim";1
+"354090 Pradópolis";1
+"354100 Praia Grande";45
+"354120 Presidente Bernardes";5
+"354130 Presidente Epitácio";2
+"354140 Presidente Prudente";41
+"354150 Presidente Venceslau";8
+"354160 Promissão";3
+"354220 Rancharia";1
+"354260 Registro";1
+"354270 Restinga";1
+"354330 Ribeirão Pires";7
+"354340 Ribeirão Preto";223
+"354390 Rio Claro";23
+"354410 Rio Grande da Serra";3
+"354420 Riolândia";3
+"354520 Salto";3
+"354530 Salto de Pirapora";2
+"354550 Sandovalina";1
+"354580 Santa Bárbara d'Oeste";5
+"354600 Santa Branca";2
+"354640 Santa Cruz do Rio Pardo";2
+"354650 Santa Ernestina";1
+"354660 Santa Fé do Sul";2
+"354760 Santa Rosa de Viterbo";1
+"354730 Santana de Parnaíba";3
+"354780 Santo André";165
+"354800 Santo Antônio de Posse";1
+"354850 Santos";418
+"354870 São Bernardo do Campo";89
+"354880 São Caetano do Sul";50
+"354890 São Carlos";36
+"354910 São João da Boa Vista";6
+"354940 São Joaquim da Barra";5
+"354970 São José do Rio Pardo";1
+"354980 São José do Rio Preto";218
+"354990 São José dos Campos";91
+"355000 São Luís do Paraitinga";1
+"355010 São Manuel";1
+"355030 São Paulo";3870
+"355040 São Pedro";3
+"355060 São Roque";11
+"355070 São Sebastião";8
+"355100 São Vicente";148
+"355160 Serra Negra";1
+"355150 Serrana";1
+"355170 Sertãozinho";3
+"355180 Sete Barras";1
+"355220 Sorocaba";134
+"355240 Sumaré";31
+"355250 Suzano";7
+"355270 Tabatinga";1
+"355280 Taboão da Serra";39
+"355300 Taguaí";1
+"355310 Taiaçu";1
+"355330 Tambaú";1
+"355340 Tanabi";1
+"355370 Taquaritinga";11
+"355400 Tatuí";9
+"355410 Taubaté";67
+"355430 Teodoro Sampaio";1
+"355450 Tietê";2
+"355465 Torre de Pedra";1
+"355470 Torrinha";1
+"355480 Tremembé";17
+"355500 Tupã";6
+"355540 Ubatuba";13
+"355570 União Paulista";1
+"355600 Urupês";1
+"355640 Vargem Grande do Sul";2
+"355645 Vargem Grande Paulista";1
+"355650 Várzea Paulista";9
+"355670 Vinhedo";4
+"355680 Viradouro";1
+"355700 Votorantim";10
+"355710 Votuporanga";13
+"410040 Almirante Tamandaré";7
+"410120 Antonina";1
+"410140 Apucarana";4
+"410150 Arapongas";2
+"410180 Araucária";1
+"410240 Bandeirantes";1
+"410360 Cambará";5
+"410370 Cambé";7
+"410420 Campo Largo";2
+"410430 Campo Mourão";2
+"410480 Cascavel";4
+"410510 Centenário do Sul";1
+"410550 Cianorte";1
+"410580 Colombo";3
+"410590 Colorado";1
+"410630 Corbélia";1
+"410640 Cornélio Procópio";2
+"410650 Coronel Vivida";1
+"410690 Curitiba";196
+"410720 Dois Vizinhos";1
+"410765 Fazenda Rio Grande";1
+"410780 Floraí";1
+"410830 Foz do Iguaçu";10
+"410840 Francisco Beltrão";3
+"410860 Goioerê";1
+"410880 Guaíra";1
+"410940 Guarapuava";4
+"410960 Guaratuba";1
+"410980 Ibiporã";4
+"410990 Icaraíma";1
+"411110 Itambé";1
+"411150 Ivaiporã";3
+"411280 Joaquim Távora";2
+"411370 Londrina";64
+"411373 Luiziana";1
+"411440 Mangueirinha";1
+"411460 Marechal Cândido Rondon";1
+"411520 Maringá";18
+"411580 Medianeira";1
+"411690 Nova Esperança";1
+"411710 Nova Londrina";1
+"411725 Nova Prata do Iguaçu";1
+"411750 Paiçandu";1
+"411770 Palmeira";1
+"411790 Palotina";1
+"411820 Paranaguá";16
+"411840 Paranavaí";2
+"411880 Peabiru";1
+"411890 Pérola";1
+"411915 Pinhais";6
+"411950 Piraquara";2
+"411990 Ponta Grossa";10
+"412020 Porto Rico";3
+"412100 Querência do Norte";1
+"412240 Rolândia";2
+"412310 Santa Amélia";1
+"412410 Santo Antônio da Platina";1
+"412480 São João";1
+"412550 São José dos Pinhais";10
+"412630 Sengés";1
+"412710 Telêmaco Borba";6
+"412800 Ubiratã";1
+"412810 Umuarama";3
+"412820 União da Vitória";2
+"420200 Balneário Camboriú";13
+"420210 Barra Velha";5
+"420230 Biguaçu";2
+"420240 Blumenau";21
+"420245 Bombinhas";1
+"420280 Braço do Norte";1
+"420290 Brusque";10
+"420320 Camboriú";4
+"420395 Capivari de Baixo";1
+"420420 Chapecó";3
+"420430 Concórdia";1
+"420460 Criciúma";25
+"420540 Florianópolis";152
+"420630 Guabiruba";1
+"420700 Içara";3
+"420730 Imbituba";2
+"420820 Itajaí";48
+"420890 Jaraguá do Sul";2
+"420900 Joaçaba";2
+"420910 Joinville";31
+"420930 Lages";6
+"420940 Laguna";3
+"421120 Morro da Fumaça";1
+"421130 Navegantes";3
+"421190 Palhoça";5
+"421360 Porto União";1
+"421480 Rio do Sul";1
+"421580 São Bento do Sul";3
+"421600 São Carlos";2
+"421620 São Francisco do Sul";1
+"421630 São João Batista";2
+"421660 São José";15
+"421760 Siderópolis";1
+"421770 Sombrio";1
+"421780 Taió";1
+"421800 Tijucas";3
+"421870 Tubarão";6
+"421900 Urussanga";1
+"421930 Videira";1
+"430040 Alegrete";2
+"430060 Alvorada";13
+"430140 Arvorezinha";1
+"430160 Bagé";3
+"430210 Bento Gonçalves";1
+"430290 Cacequi";1
+"430300 Cachoeira do Sul";3
+"430310 Cachoeirinha";4
+"430350 Camaquã";1
+"430390 Campo Bom";1
+"430440 Canela";2
+"430460 Canoas";25
+"430463 Capão da Canoa";2
+"430470 Carazinho";1
+"430510 Caxias do Sul";10
+"430545 Cidreira";1
+"430610 Cruz Alta";4
+"430660 Dom Pedrito";2
+"430676 Eldorado do Sul";6
+"430680 Encantado";2
+"430770 Esteio";4
+"430790 Farroupilha";1
+"430900 Giruá";1
+"430920 Gravataí";8
+"430930 Guaíba";7
+"430940 Guaporé";1
+"431010 Igrejinha";1
+"431130 Lagoa Vermelha";1
+"431140 Lajeado";1
+"431240 Montenegro";1
+"431260 Muçum";2
+"431337 Nova Santa Rita";1
+"431340 Novo Hamburgo";8
+"431350 Osório";2
+"431365 Palmares do Sul";2
+"431405 Parobé";1
+"431410 Passo Fundo";19
+"431440 Pelotas";13
+"431480 Portão";1
+"431490 Porto Alegre";372
+"431530 Quaraí";1
+"431560 Rio Grande";25
+"431570 Rio Pardo";4
+"431600 Rolante";1
+"431670 Santa Bárbara do Sul";1
+"431680 Santa Cruz do Sul";1
+"431690 Santa Maria";10
+"431730 Santa Vitória do Palmar";1
+"431710 Santana do Livramento";2
+"431740 Santiago";4
+"431750 Santo Ângelo";1
+"431780 Santo Augusto";1
+"431820 São Francisco de Paula";1
+"431830 São Gabriel";2
+"431840 São Jerônimo";1
+"431850 São José do Norte";1
+"431870 São Leopoldo";10
+"431880 São Lourenço do Sul";1
+"431890 São Luiz Gonzaga";2
+"431940 São Pedro do Sul";1
+"431950 São Sebastião do Caí";1
+"432000 Sapucaia do Sul";2
+"432080 Soledade";2
+"432120 Taquara";1
+"432140 Tenente Portela";1
+"432150 Torres";3
+"432240 Uruguaiana";4
+"432250 Vacaria";2
+"432300 Viamão";20
+"500100 Aparecida do Taboado";1
+"500270 Campo Grande";64
+"500315 Coronel Sapucaia";1
+"500320 Corumbá";6
+"500345 Deodápolis";1
+"500370 Dourados";6
+"500400 Glória de Dourados";1
+"500440 Inocência";1
+"500520 Ladário";2
+"500540 Maracaju";1
+"500560 Miranda";2
+"500570 Naviraí";1
+"500635 Paranhos";1
+"500660 Ponta Porã";1
+"500690 Porto Murtinho";2
+"500730 Rio Negro";1
+"500740 Rio Verde de Mato Grosso";1
+"500769 São Gabriel do Oeste";1
+"500793 Sonora";1
+"500800 Terenos";3
+"500830 Três Lagoas";8
+"510010 Acorizal";1
+"510025 Alta Floresta";1
+"510250 Cáceres";1
+"510340 Cuiabá";75
+"510410 Guarantã do Norte";2
+"510480 Jaciara";1
+"510525 Lucas do Rio Verde";1
+"510650 Poconé";1
+"510760 Rondonópolis";4
+"510840 Várzea Grande";1
+"520110 Anápolis";10
+"520130 Anicuns";1
+"520140 Aparecida de Goiânia";5
+"520260 Aurilândia";1
+"520330 Bela Vista de Goiás";1
+"520450 Caldas Novas";1
+"520495 Campos Verdes";1
+"520530 Cavalcante";1
+"520549 Cidade Ocidental";1
+"520870 Goiânia";124
+"520880 Goianira";2
+"521000 Inhumas";2
+"521020 Iporá";1
+"521120 Itapuranga";2
+"521150 Itumbiara";3
+"521190 Jataí";5
+"521220 Jussara";1
+"521250 Luziânia";14
+"521380 Morrinhos";1
+"521640 Paraúna";2
+"521710 Piracanjuba";1
+"521720 Piranhas";1
+"521740 Pires do Rio";1
+"521760 Planaltina";1
+"521880 Rio Verde";7
+"521920 Santa Cruz de Goiás";1
+"521950 Santa Rosa de Goiás";1
+"521975 Santo Antônio do Descoberto";2
+"522045 Senador Canedo";1
+"522100 Taquaral de Goiás";1
+"522140 Trindade";1
+"522150 Turvânia";1
+"522160 Uruaçu";1
+"522185 Valparaíso de Goiás";1
+"530010 Brasília";225
