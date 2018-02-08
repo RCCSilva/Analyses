@@ -16,10 +16,15 @@ for(i in 2012:2017){
   
   br_df <- html_table(node_cont)
   
+  colnames(br_df) <- c("jogo", "rodada", "data", "mandante", "resultado", "visitante", "estadio", "excluir")
+  
   lista[[(i - 2011)]] <- br_df
   
 }
 
 serie_df <- bind_rows(lista)
+
+serie_df <- serie_df %>% 
+  select(-excluir)
 
 write_rds(serie_df, "[Trabalho]Brasileirao/serie.rds")
