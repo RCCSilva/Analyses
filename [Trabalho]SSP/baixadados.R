@@ -165,3 +165,5 @@ serie_df <- serie_df %>%
   mutate(quantidade = parse_number(quantidade, locale = locale(decimal_mark = ",", grouping_mark = ".")),
          quantidade = ifelse(is.na(quantidade), 0, quantidade)) %>% 
   filter(!is.na(ano))
+
+write_rds(serie_df, "[Trabalho]SSP/serie.rds")
