@@ -45,7 +45,7 @@ serie_mensal_df <- serie_mensal_df %>%
 
 total_mun_2017 <- serie_mensal_df %>% 
   group_by(ano, municipio, Natureza) %>% 
-  summarise(soma = sum(quantidade)) %>% 
+  summarise(soma = sum(Total)) %>% 
   left_join(saopaulo_int, by = c("municipio" = "id_alf")) %>% 
   mutate(taxa = (soma/`2017`) * 10000) %>% 
   select(ano, municipio, uf, id, Natureza, taxa) %>% 
@@ -55,8 +55,15 @@ saopaulo_df <- saopaulo_df %>%
   left_join(total_mun_2017, by = "id")
 
 saopaulo_df %>% 
-  ggplot(mapping = aes(x = long, y = lat, group = group, fill = split(`HOMICÍDIO DOLOSO (2)`, f = c("baixo")))) +
+  ggplot(mapping = aes(x = long, y = lat, group = group, fill = cut(`HOMICÍDIO DOLOSO (2)`, breaks = c(0,1,5,10,15)))) +
+  geom_polygon(color = "white") +
+  coord_map() +
+  theme_map()
+
+saopaulo_df %>% 
+  ggplot(mapping = aes(x = long, y = lat, group = group, fill = `HOMICÍDIO DOLOSO (2)`)) +
   geom_polygon(color = "white") +
   coord_map() +
   theme_map() +
-  scale_fill_discrete()
+  scale_fill_continuous(low = "blue", high = "red")
+

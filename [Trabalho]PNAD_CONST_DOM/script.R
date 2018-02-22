@@ -43,8 +43,11 @@ banco %>%
   scale_x_continuous(breaks = seq(0,20, by = 1)) +
   theme_minimal()
 
-banco %>% 
+fam_com_filhos <- banco %>% 
   group_by(domicilioid, pos_fam) %>% 
   summarise(soma = n()) %>% 
   spread(pos_fam, soma, fill = 0) %>% 
-  filter(Filho >= 1)
+  filter(Filho >= 1) %>% 
+  .$domicilioid
+
+typeof(fam_com_filhos)
