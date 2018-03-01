@@ -213,7 +213,7 @@ chamada_1 %>%
   mutate(total = sum(female, male, `<NA>`, na.rm = T),
          prop_m= female/total) %>%
   filter(total < 41 & total >= 28) %>% 
-  gather(female:`<NA>3`, key = "gender", value = "n") %>% 
+  gather(female:`<NA>`, key = "gender", value = "n") %>% 
   ggplot(mapping = aes(x = reorder(nome_curso, prop_m), y = n, fill = gender)) +
   geom_bar(position = "fill", stat = "identity") +
   geom_hline(yintercept = 0.5) +
