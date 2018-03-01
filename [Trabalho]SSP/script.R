@@ -66,4 +66,3 @@ saopaulo_df %>%
   coord_map() +
   theme_map() +
   scale_fill_continuous(low = "blue", high = "red")
-

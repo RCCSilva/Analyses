@@ -110,6 +110,7 @@ serie_mensa_df <- bind_rows(serie_mensal_ls)
 write_rds(serie_mensa_df, "[Trabalho]SSP/serie_mensal.rds")
 
 
+
 # atribuindo nome aos municipios ------------------------------------------
 rm(list = ls())
 
@@ -178,7 +179,7 @@ caso_normal <- function(ano, tri){
 
 lista <- lst()
 
-for(ano in 1996:2016){
+for(ano in 1996:2017){
   for(tri in 1:4){
     tamanho <- length(lista)
     if(ano == 2001){
@@ -199,5 +200,6 @@ serie_df <- serie_df %>%
   mutate(quantidade = parse_number(quantidade, locale = locale(decimal_mark = ",", grouping_mark = ".")),
          quantidade = ifelse(is.na(quantidade), 0, quantidade)) %>% 
   filter(!is.na(ano))
+
 
 write_rds(serie_df, "[Trabalho]SSP/serie.rds")
