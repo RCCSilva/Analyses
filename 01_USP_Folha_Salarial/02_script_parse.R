@@ -13,15 +13,14 @@ library(gender)    #Pacote para atribuir sexo a partir dos nomes
 library(genderBR)  #Pacote para atribuir sexo a partir 
 library(readxl)    #
 
-source("[Trabalho]Folha_USP/FUN.R")
+source("FUN.R")
 
-##########################################################################
-#### 1. Criando o Banco de Dados no formado Long
+# 1. Carregando Banco -----------------------------------------------------
+
 
 rm(list = ls())
 
-##########################################################################
-#### 1.1. Motando o Banco de Dados e Validando a criação da variável "sexo"
+## 1.1. Motando o Banco de Dados e Validando a criação da variável "sexo"
 
 
 # Carregando o banco de dados 'sal_usp.rds'
